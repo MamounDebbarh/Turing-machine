@@ -1,0 +1,2 @@
+#!/bin/bash
+java TM $1 $2
